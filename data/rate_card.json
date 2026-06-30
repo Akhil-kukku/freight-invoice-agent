@@ -1,0 +1,5 @@
+[
+  {"lane": "LA to Chicago", "max_weight_lbs": 40000, "agreed_rate_usd": 1200},
+  {"lane": "NYC to Miami", "max_weight_lbs": 35000, "agreed_rate_usd": 950},
+  {"lane": "Dallas to Seattle", "max_weight_lbs": 45000, "agreed_rate_usd": 1500}
+]

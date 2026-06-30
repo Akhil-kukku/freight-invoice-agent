@@ -1,0 +1,10 @@
+FREIGHT INVOICE
+Invoice #: INV-2024-0091
+Carrier: FastFreight LLC
+Date: 2024-06-15
+
+Lane: LA to Chicago
+Weight: 38000 lbs
+Charge: $1,450.00
+
+Total Due: $1,450.00

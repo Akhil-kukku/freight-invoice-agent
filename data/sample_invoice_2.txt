@@ -1,0 +1,10 @@
+FREIGHT INVOICE
+Invoice #: INV-2024-0102
+Carrier: Reliable Transport Co.
+Date: 2024-06-18
+
+Lane: NYC to Miami
+Weight: 32000 lbs
+Charge: $950.00
+
+Total Due: $950.00
